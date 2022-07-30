@@ -3,7 +3,7 @@
  | Challenge Name          | Points
  | --------------          | ------
  | [OBSCURE](https://github.com/LeonGurin/TFC-CTF-2022-Writeup/tree/main/OBSCURE) | 50/50
- | [MAFIOSO](https://github.com/LeonGurin/TFC-CTF-2022-Writeup/tree/main/MAFIOSO)
+ | [MAFIOSO](https://github.com/LeonGurin/TFC-CTF-2022-Writeup/tree/main/MAFIOSO) | 50/50
  | [BBBBBBBBBB](https://github.com/LeonGurin/TFC-CTF-2022-Writeup/tree/main/BBBBBBBBBB) | 50/50
  | RULES - found in the rules | 50/50
  | ROBOTS AND MUSIC | 50/50

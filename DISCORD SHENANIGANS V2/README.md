@@ -16,7 +16,7 @@ Following the second hint I scrolled up all the messeages in `#announcements` un
 
 With it came attached a picture `CURRENT STATUS`:
 
-![img]()
+![img](https://github.com/LeonGurin/TFC-CTF-2022-Writeup/blob/main/DISCORD%20SHENANIGANS%20V2/current-50.png)
 
 downloading it and using `exiftool` gives us the flag in one of its fields:
 
