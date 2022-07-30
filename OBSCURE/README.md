@@ -1,6 +1,6 @@
 **OBSCURE 50 points**
 
-![desc]()
+![desc](https://github.com/LeonGurin/TFC-CTF-2022-Writeup/blob/main/OBSCURE/desc.png)
 ___
 
 Just write the text:
