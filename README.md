@@ -10,6 +10,6 @@
  | [DISCORD SHENANIGANS V2](https://github.com/LeonGurin/TFC-CTF-2022-Writeup/tree/main/DISCORD%20SHENANIGANS%20V2) | 50/50
 
 # Competition Results:
-* **Scored:** XXX points
-* **Placed:** XXX place
+* **Scored:** 300 points
+* **Placed:** 488 place
 
